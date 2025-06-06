@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Victor
 
-<!--
-**eujuuao/eujuuao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor full stack com foco em código limpo, arquitetura sólida e soluções reais. Faço desde automações com scraping e dashboards, até plataformas web completas com React, Node.js, Prisma e MySQL.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias que uso
+- Node.js | TypeScript | Prisma
+- React | Tailwind CSS
+- MySQL | Git | Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos em destaque
+- **Automação de relatórios laboratoriais** (Node + ExcelJS + Prisma)
+- **Sistema de agendamento para barbearias** (React + MySQL + White-label)
+- **Clone do Pinterest** (Full Stack)
+
+📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/seulink)
+
+---
+_"O não a gente já tem, então por que não tentar?"_
